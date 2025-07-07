@@ -1,4 +1,4 @@
-1 or 1=1 UNION SELECT Commentaire, countersign FROM users
+1 or 1=1 UNION SELECT commentaire, countersign FROM users
 
 fix:
 Il faut utiliser des requêtes préparées (prepared statements), qui séparent les données des instructions SQL.
